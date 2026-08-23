@@ -1,15 +1,23 @@
-## Oi sou Marcos 👋
+👋 Olá, eu sou Marcos!
 
-- 🔭 Atualmente estou cursando Ciências de Dados
-- 🌱 Estudando Python, SQL, Power BI
-- 👯 Projetos Reais
+💻 Professor de Tecnologia | Desenvolvedor Backend | Ciência de Dados
 
+Atuo na área de tecnologia e educação, lecionando conteúdos relacionados ao desenvolvimento de software e programação, com foco em Node.js, JavaScript e desenvolvimento Backend.
 
-<div>
-<a href="https://beacons.ai/marcos-silvaa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-silvaa&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-silvaa&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
-</a>
+Também trabalho e desenvolvo projetos relacionados a Python, SQL, Banco de Dados, Ciência de Dados e Power BI, buscando sempre transformar conhecimento em projetos e aplicações práticas.
+
+👨‍🏫 Sobre mim
+👨‍🏫 Professor na área de Tecnologia
+🌐 Leciono Node.js e Desenvolvimento Backend
+🟨 JavaScript e desenvolvimento de APIs
+🐍 Python e análise de dados
+🗄️ SQL e Banco de Dados
+📊 Power BI e visualização de dados
+🔥 PySpark e processamento de dados
+☁️ Computação em Nuvem
+🐳 Docker e ambientes de desenvolvimento
+
+Meu foco é unir educação, programação e projetos práticos, criando soluções e conteúdos que aproximem a teoria da realidade do mercado.
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="teste-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
